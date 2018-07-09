@@ -1,0 +1,20 @@
+{
+	"contacts":[
+		{"nombre": "Carl",
+		 "apellido": "Manzon",
+		 "telefono":"809-468-3545"
+		},
+		{"nombre": "Steve",
+		 "apellido": "London",
+		 "telefono":"849-645-1541"
+		},
+		{"nombre": "Tommy",
+		 "apellido": "Dunjan",
+		 "telefono":"849-552-4545"
+		},
+		{"nombre": "Mark",
+		 "apellido": "Pipe",
+		 "telefono":"849-235-1651"
+		}
+	]
+}

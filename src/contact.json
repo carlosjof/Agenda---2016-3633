@@ -1,0 +1,13 @@
+{
+	"contacts":[
+		{"nombre": "Carl",
+		 "apellido": "Manzon",
+		 "telefono":"809-468-3545"
+		},
+		{"nombre": "Carl",
+		 "apellido": "Manzon",
+		 "telefono":"809-468-3545"
+		}
+
+	]
+}
